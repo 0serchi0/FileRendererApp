@@ -48,7 +48,7 @@ public class FileRendererApp {
 
         // Label, Textfeld und Button für den Dateipfad
         JPanel pathInputPanel = new JPanel(new FlowLayout(FlowLayout.LEFT)); // Links ausgerichtetes Layout
-        JLabel pathLabel = new JLabel("path to daemon.raw:");
+        JLabel pathLabel = new JLabel("path to .raw file:");
         JTextField pathField = new JTextField(40); // Breiteres Textfeld
         JButton browseButton = new JButton("browse"); // Button für die Auswahl
         JButton renderButton = new JButton("render");
