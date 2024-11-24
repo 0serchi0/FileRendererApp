@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileRendererApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileRendererApp_jar</output-path>
+    <root id="archive" name="FileRendererApp.jar">
+      <element id="module-output" name="FileRendererApp" />
+    </root>
+  </artifact>
+</component>
